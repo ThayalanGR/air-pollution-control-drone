@@ -1,0 +1,2 @@
+sudo home/pi/3gdongle/umtskeeper --sakisoperators "USBINTERFACE='0' OTHER='USBMODEM' USBMODEM='12d1:1436' APN='CUSTOM_APN' CUSTOM_APN='airtelgprs.com' SIM_PIN='1234' APN_USER='user' APN_PASS='user'" --sakisswitches "--sudo --console" --devicename 'Huawei' --log --silent --monthstart 8 --nat 'no'
+

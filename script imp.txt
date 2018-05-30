@@ -1,0 +1,33 @@
+$ lsusb
+
+$ sudo apt-get update
+$ sudo apt-get install arduino
+
+	
+
+$ arduino
+
+
+import serial 
+arduinoSerialData = serial.Serial('/dev/ttyACM0',9600)
+while 1:
+   if(arduinoSerialData.inWaiting()>0):
+      myData = arduinoSerialData.readline()
+      print myData
+
+
+$ python arduino01.py
+
+
+ttyACM0
+
+
+$ python
+
+
+>>> import serial
+>>> arduinoSerialData = serial.Serial('/dev/ttyACM0',9600)
+>>> arduinoSerialData.write('5')
+
+
+>>> arduinoSerialData.write('3')

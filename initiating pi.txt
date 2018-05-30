@@ -1,0 +1,28 @@
+dataplicity:-
+login:- falcon2k18@gmail.com
+password:- raspberry
+https://www.dataplicity.com/devices/b6ef605d-84ac-42bc-a2c2-d7c1cb6bf531/
+**when opening for first time type the following command**
+
+dataplicity@raspberrypi:/$ su pi
+**then it asks for password like this enter the password as raspberry**
+Password:raspberry
+
+**follow the above procedure for above two tabs***
+****copy  the below commands entirely into the dataplicity tab(to the tab from the above link)****
+-------------------------------------------------------------------------------------------------------------------
+
+cd /home/pi/mjpg-streamer
+sudo modprobe bcm2835-v4l2 && nohup sudo ./mjpg_streamer -i "./input_uvc.so -f 10 -r 640x320 -n -y" -o "./output_http.so -w ./www -p 80" &
+nohup python /home/pi/project/sample.py &
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+define('DB_DRIVER', 'mysql');
+define('DB_SERVER', 'sql305.epizy.com');
+define('DB_SERVER_USERNAME', 'epiz_21398326');
+define('DB_SERVER_PASSWORD', 'raspberry');
+define('DB_DATABASE', 'epiz_21398326_sensordata');
