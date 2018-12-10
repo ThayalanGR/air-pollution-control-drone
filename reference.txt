@@ -1,0 +1,27 @@
+https://www.bitvise.com/ssh-client-download
+
+http://www.ghisler.com/download.htm
+
+https://discuss.uavmatrix.com/d/17-howto-rpi-pixhawk-with-4g-cell-video-telemetry
+
+https://gstreamer.freedesktop.org/download/
+
+https://create.arduino.cc/projecthub/jawood44/caravan-home-automation-19eb18
+
+http://www.esologic.com/piplanter-going-from-analog-data-to-the-web-using-python-mysql-and-php/
+
+http://www.meccanismocomplesso.org/en/controlling-arduino-raspberry-pi/
+
+https://sourceforge.net/projects/pyserial/files/pyserial/2.5/
+
+https://sourceforge.net/projects/pyserial/files/pyserial/2.5/
+
+https://pimylifeup.com/raspberry-pi-port-forwarding/
+
+https://www.youtube.com/watch?v=qk1IVs5B1GI
+
+https://in.000webhost.com/cpanel-login?from=panel
+
+https://www.dataplicity.com/profile/signin/?next=/devices/b6ef605d-84ac-42bc-a2c2-d7c1cb6bf531/
+
+https://freakiest-budgerigar-9742.dataplicity.io/?action=stream   (video stream example)
